@@ -10,7 +10,7 @@ This repo is week 9 to week 11 of the QMUL Data Science and Coding module, using
 - Plotting Data Subsets - dplyr::filter and is.na
 - Figure Labels - ggplot2::labs
 
-**Week 10:**
+[**Week 10:**](https://f8fcfde349fb496e84a835435bbc75e5.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FWorkshop10.html)
 - Annotating Data Points - ggplot2::geom_text
 - Facets - ggplot2:: facet_wrap (takes a number of plots and 'wraps' them into a grid) and ggplot2::facet_grid (defined by row and column faceting variables)
 - Patchwork
