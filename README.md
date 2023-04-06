@@ -17,7 +17,7 @@ This repo is week 9 to week 11 of the QMUL Data Science and Coding module, using
 - Colours - covering discrete colour scales, continuous colour scales (including ggplot2 viridis scales) and NA values
 - Themes
 
-**Week 11:**
+[**Week 11:**](https://ac0a9ddcae354d81a8cabd9d3b03f3e7.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FWorkshop11.html)
 - Summary Tables - dplyr::group_by and dplyr::summarise
 - Heatmaps - ggplot2::geom_raster
 - Changing Axes - including log scales, and the ggplot2::limits and ggplot2::breaks 
