@@ -12,7 +12,7 @@ This repo is week 9 to week 11 of the QMUL Data Science and Coding module, using
 
 **Week 10:**
 - Annotating Data Points - ggplot2::geom_text
-- Facets - ggplot2:: facet_wrap and ggplot2::facet_grid
+- Facets - ggplot2:: facet_wrap (takes a number of plots and 'wraps' them into a grid) and ggplot2::facet_grid (defined by row and column faceting variables)
 - Patchwork
 - Colours - covering discrete colour scales, continuous colour scales (including ggplot2 viridis scales) and NA values
 - Themes
