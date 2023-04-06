@@ -8,12 +8,19 @@ This repo is week 9 to week 11 of the QMUL Data Science and Coding module, using
 - Continuous vs Categorial Variables
 - Statistical Transformations
 - Plotting Data Subsets - dplyr::filter and is.na
-- Figure Labels - using the ggplot2 labs argument
+- Figure Labels - ggplot2::labs
+
+**Week 10:**
+- Annotating Data Points - ggplot2::geom_text
+- Facets - ggplot2:: facet_wrap and ggplot2::facet_grid
+- Patchwork
+- Colours - covering discrete colour scales, continuous colour scales (including ggplot2 viridis scales) and NA values
+- Themes
 
 **Week 11:**
-- Summary Tables - using dplyr::group_by and dplyr::summarise
-- Heatmaps - using ggplot2::geom_raster
-- Changing Axes - including log scales, and the ggplot2 limits and breaks argument
+- Summary Tables - dplyr::group_by and dplyr::summarise
+- Heatmaps - ggplot2::geom_raster
+- Changing Axes - including log scales, and the ggplot2::limits and ggplot2::breaks 
 - Highlighting Data Subsets 
-- Manual Colour Scales - using RColourBrewer::brewer.pal
-- Putting Together Plots - using patchwork and collecting guides
+- Manual Colour Scales - RColourBrewer::brewer.pal
+- Putting Together Plots - patchwork and collecting guides
