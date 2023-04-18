@@ -30,4 +30,4 @@ Directories include datasets, and the code files are extensively commented to gu
 
 **Coursework:**
 
-Instructions - 
+Instructions - make two data presentations based on i) the World Malaria Report, and ii) the World Malaria Report and an external dataset.
