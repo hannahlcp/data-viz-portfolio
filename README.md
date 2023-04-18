@@ -1,6 +1,6 @@
 # Data Visualisation in R
 ## Using ggplot2 and patchwork 
-This repo is week 9 to week 11 of the QMUL Data Science and Coding module, using R. The content ranges from the grammar of graphics, gradually builds up ggplot2 code using a range and combination of geoms, implements the patchwork package, and explains how to 'tell a story' using data. Directories include datasets, and the code files are extensively commented to guide through the steps of generating visualisations. The weekly worksheets are available in the respective folders.
+This repo is week 9 to week 11 of the Queen Mary University of London Data Science and Coding module, using R. The content ranges from the grammar of graphics, introduces and explains ggplot2, builds on a range and combination of geoms, implements the patchwork package, and explains how to 'tell a story' using data. Directories include datasets, and the code files are extensively commented to guide through the steps of generating visualisations. The weekly instruction worksheets are available in the respective folders.
 
 
 **Week 9:**
