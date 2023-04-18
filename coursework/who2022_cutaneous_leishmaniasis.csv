@@ -1,0 +1,1528 @@
+﻿country,year,cases
+Belize,2021,0
+Bulgaria,2021,0
+Georgia,2021,0
+Greece,2021,0
+Guinea,2021,0
+Lebanon,2021,0
+Oman,2021,0
+Thailand,2021,0
+Nigeria,2021,1
+Portugal,2021,1
+Libya,2021,1095
+Honduras,2021,1119
+Ecuador,2021,1225
+Nicaragua,2021,1251
+Kenya,2021,127
+Panama,2021,1286
+Iraq,2021,13231
+Suriname,2021,139
+Iran (Islamic Republic of),2021,14020
+Brazil,2021,14800
+Ghana,2021,154
+Pakistan,2021,17020
+Venezuela (Bolivarian Republic of),2021,1802
+Chad,2021,189
+Bhutan,2021,2
+Cameroon,2021,2
+Bolivia (Plurinational State of),2021,2166
+Italy,2021,25
+Tunisia,2021,2732
+Guyana,2021,3
+Morocco,2021,3141
+Argentina,2021,328
+Tajikistan,2021,35
+Afghanistan,2021,39554
+Yemen,2021,4205
+Spain,2021,43
+El Salvador,2021,50
+Mexico,2021,505
+Senegal,2021,52
+Peru,2021,5201
+Paraguay,2021,53
+Jordan,2021,56
+Costa Rica,2021,563
+Saudi Arabia,2021,600
+Colombia,2021,6175
+Algeria,2021,7051
+Ethiopia,2021,716
+Syrian Arab Republic,2021,78231
+Guatemala,2021,836
+Sudan,2021,84
+Burkina Faso,2021,873
+Egypt,2021,883
+Kuwait,2021,9
+Turkmenistan,2021,97
+Albania,2021,NA
+Armenia,2021,NA
+Azerbaijan,2021,NA
+Bosnia and Herzegovina,2021,NA
+Central African Republic,2021,NA
+China,2021,NA
+Côte d’Ivoire,2021,NA
+Croatia,2021,NA
+Cyprus,2021,NA
+Democratic Republic of the Congo,2021,NA
+Djibouti,2021,NA
+Dominican Republic,2021,NA
+Eritrea,2021,NA
+France,2021,NA
+Gambia,2021,NA
+Guinea-Bissau,2021,NA
+India,2021,NA
+Israel,2021,NA
+Kazakhstan,2021,NA
+Kyrgyzstan,2021,NA
+Malawi,2021,NA
+Mali,2021,NA
+Malta,2021,NA
+Mauritania,2021,NA
+Monaco,2021,NA
+Montenegro,2021,NA
+Namibia,2021,NA
+Nepal,2021,NA
+Niger,2021,NA
+The former Yugoslav Republic of Macedonia,2021,NA
+Slovenia,2021,NA
+Sri Lanka,2021,NA
+Türkiye,2021,NA
+Ukraine,2021,NA
+United States of America,2021,NA
+Uzbekistan,2021,NA
+Djibouti,2020,0
+Georgia,2020,0
+Greece,2020,0
+Guinea,2020,0
+Oman,2020,0
+Thailand,2020,0
+Ukraine,2020,0
+Armenia,2020,1
+Bulgaria,2020,1
+Cyprus,2020,1
+Malta,2020,1
+Nigeria,2020,1
+Slovenia,2020,1
+Iran (Islamic Republic of),2020,10203
+Ecuador,2020,1025
+Saudi Arabia,2020,1035
+Turkmenistan,2020,107
+Algeria,2020,11566
+Guatemala,2020,1121
+Guyana,2020,12
+Nepal,2020,12
+Ethiopia,2020,1402
+Honduras,2020,1467
+Venezuela (Bolivarian Republic of),2020,1597
+Brazil,2020,16056
+Pakistan,2020,16770
+Argentina,2020,176
+Italy,2020,18
+Bolivia (Plurinational State of),2020,2059
+Sri Lanka,2020,2217
+Egypt,2020,2239
+Jordan,2020,23
+Mexico,2020,324
+France,2020,34
+Nicaragua,2020,3443
+Yemen,2020,3605
+Spain,2020,37
+Morocco,2020,3774
+Chad,2020,38
+El Salvador,2020,38
+Kenya,2020,398
+Cameroon,2020,4
+Libya,2020,4000
+Burkina Faso,2020,416
+Peru,2020,4178
+Suriname,2020,42
+Afghanistan,2020,44167
+Tunisia,2020,4872
+Costa Rica,2020,528
+Paraguay,2020,54
+Kuwait,2020,6
+Syrian Arab Republic,2020,61559
+Colombia,2020,6124
+Senegal,2020,64
+Uzbekistan,2020,761
+Kazakhstan,2020,79
+Israel,2020,86
+Iraq,2020,8691
+Panama,2020,938
+Albania,2020,NA
+Azerbaijan,2020,NA
+Belize,2020,NA
+Bhutan,2020,NA
+Bosnia and Herzegovina,2020,NA
+Central African Republic,2020,NA
+China,2020,NA
+Côte d’Ivoire,2020,NA
+Croatia,2020,NA
+Democratic Republic of the Congo,2020,NA
+Dominican Republic,2020,NA
+Eritrea,2020,NA
+Gambia,2020,NA
+Ghana,2020,NA
+Guinea-Bissau,2020,NA
+India,2020,NA
+Kyrgyzstan,2020,NA
+Lebanon,2020,NA
+Malawi,2020,NA
+Mali,2020,NA
+Mauritania,2020,NA
+Monaco,2020,NA
+Montenegro,2020,NA
+Namibia,2020,NA
+Niger,2020,NA
+Portugal,2020,NA
+The former Yugoslav Republic of Macedonia,2020,NA
+Sudan,2020,NA
+Tajikistan,2020,NA
+Türkiye,2020,NA
+United States of America,2020,NA
+Armenia,2019,0
+Bulgaria,2019,0
+China,2019,0
+Cyprus,2019,0
+Djibouti,2019,0
+Georgia,2019,0
+Greece,2019,0
+Malta,2019,0
+Oman,2019,0
+Thailand,2019,0
+Ukraine,2019,0
+Croatia,2019,1
+Algeria,2019,10293
+Mexico,2019,1014
+Ecuador,2019,1040
+Turkmenistan,2019,105
+Saudi Arabia,2019,1096
+Guatemala,2019,1167
+Israel,2019,122
+Suriname,2019,130
+France,2019,14
+Brazil,2019,15350
+Nepal,2019,16
+Ethiopia,2019,1665
+Egypt,2019,1811
+Guyana,2019,19
+Honduras,2019,1985
+Albania,2019,2
+Cameroon,2019,2
+Lebanon,2019,2
+Venezuela (Bolivarian Republic of),2019,2031
+Bolivia (Plurinational State of),2019,2046
+Argentina,2019,232
+Sri Lanka,2019,3259
+Nicaragua,2019,3321
+El Salvador,2019,38
+Senegal,2019,39
+Italy,2019,40
+Azerbaijan,2019,43
+Yemen,2019,4440
+Kuwait,2019,5
+Nigeria,2019,5
+Burkina Faso,2019,501
+Paraguay,2019,51
+Pakistan,2019,53574
+Peru,2019,5349
+Morocco,2019,5455
+Kazakhstan,2019,55
+Tajikistan,2019,55
+Afghanistan,2019,55225
+Colombia,2019,5855
+Costa Rica,2019,601
+Uzbekistan,2019,638
+Kenya,2019,67
+Libya,2019,6744
+Jordan,2019,69
+Spain,2019,70
+Iraq,2019,7056
+Tunisia,2019,7058
+Syrian Arab Republic,2019,71704
+Iran (Islamic Republic of),2019,8161
+Chad,2019,82
+Panama,2019,920
+Belize,2019,NA
+Bhutan,2019,NA
+Bosnia and Herzegovina,2019,NA
+Central African Republic,2019,NA
+Côte d’Ivoire,2019,NA
+Democratic Republic of the Congo,2019,NA
+Dominican Republic,2019,NA
+Eritrea,2019,NA
+Gambia,2019,NA
+Ghana,2019,NA
+Guinea,2019,NA
+Guinea-Bissau,2019,NA
+India,2019,NA
+Kyrgyzstan,2019,NA
+Malawi,2019,NA
+Mali,2019,NA
+Mauritania,2019,NA
+Monaco,2019,NA
+Montenegro,2019,NA
+Namibia,2019,NA
+Niger,2019,NA
+Portugal,2019,NA
+The former Yugoslav Republic of Macedonia,2019,NA
+Slovenia,2019,NA
+Sudan,2019,NA
+Türkiye,2019,NA
+United States of America,2019,NA
+Armenia,2018,0
+Bhutan,2018,0
+Bulgaria,2018,0
+Cameroon,2018,0
+China,2018,0
+Cyprus,2018,0
+Djibouti,2018,0
+Georgia,2018,0
+Greece,2018,0
+Lebanon,2018,0
+Oman,2018,0
+The former Yugoslav Republic of Macedonia,2018,0
+Slovenia,2018,0
+Croatia,2018,1
+Thailand,2018,1
+Algeria,2018,10847
+Guatemala,2018,1044
+Iraq,2018,11426
+Morocco,2018,11834
+Suriname,2018,114
+Panama,2018,1142
+Egypt,2018,1161
+Ecuador,2018,1237
+Costa Rica,2018,1247
+Iran (Islamic Republic of),2018,15485
+Jordan,2018,150
+Türkiye,2018,1554
+Azerbaijan,2018,16
+Brazil,2018,16167
+Honduras,2018,1636
+Nepal,2018,19
+Pakistan,2018,19361
+Albania,2018,2
+Portugal,2018,2
+Turkmenistan,2018,212
+Sri Lanka,2018,2189
+Venezuela (Bolivarian Republic of),2018,2592
+Guyana,2018,27
+Israel,2018,276
+Libya,2018,2977
+Nigeria,2018,3
+Argentina,2018,303
+Bolivia (Plurinational State of),2018,3127
+Sudan,2018,3299
+Spain,2018,35
+Nicaragua,2018,3722
+Afghanistan,2018,38407
+Kazakhstan,2018,39
+Kuwait,2018,4
+Malta,2018,4
+Tajikistan,2018,40
+Kenya,2018,44
+Chad,2018,46
+Yemen,2018,4763
+El Salvador,2018,48
+France,2018,5
+Niger,2018,521
+Mexico,2018,576
+Senegal,2018,6
+Peru,2018,6057
+Colombia,2018,6316
+Uzbekistan,2018,643
+Italy,2018,70
+Tunisia,2018,7467
+Syrian Arab Republic,2018,80215
+Paraguay,2018,84
+Burkina Faso,2018,856
+Ethiopia,2018,882
+Saudi Arabia,2018,921
+Belize,2018,NA
+Bosnia and Herzegovina,2018,NA
+Central African Republic,2018,NA
+Côte d’Ivoire,2018,NA
+Democratic Republic of the Congo,2018,NA
+Dominican Republic,2018,NA
+Eritrea,2018,NA
+Gambia,2018,NA
+Ghana,2018,NA
+Guinea,2018,NA
+Guinea-Bissau,2018,NA
+India,2018,NA
+Kyrgyzstan,2018,NA
+Malawi,2018,NA
+Mali,2018,NA
+Mauritania,2018,NA
+Monaco,2018,NA
+Montenegro,2018,NA
+Namibia,2018,NA
+Ukraine,2018,NA
+United States of America,2018,NA
+Albania,2017,0
+Armenia,2017,0
+Bosnia and Herzegovina,2017,0
+China,2017,0
+Côte d’Ivoire,2017,0
+Djibouti,2017,0
+Georgia,2017,0
+Lebanon,2017,0
+Montenegro,2017,0
+Namibia,2017,0
+The former Yugoslav Republic of Macedonia,2017,0
+Slovenia,2017,0
+Ukraine,2017,0
+Greece,2017,1
+Kuwait,2017,1
+Malta,2017,1
+Oman,2017,1
+Thailand,2017,1
+Azerbaijan,2017,10
+Saudi Arabia,2017,1007
+Ethiopia,2017,1011
+Suriname,2017,113
+Panama,2017,1164
+Iran (Islamic Republic of),2017,12208
+Algeria,2017,13106
+Kazakhstan,2017,131
+Jordan,2017,155
+Ecuador,2017,1632
+Spain,2017,165
+Senegal,2017,17
+Brazil,2017,17279
+Iraq,2017,18854
+Turkmenistan,2017,182
+Honduras,2017,1854
+Bhutan,2017,2
+Portugal,2017,2
+Guyana,2017,20
+Italy,2017,21
+Israel,2017,218
+Costa Rica,2017,2224
+Bolivia (Plurinational State of),2017,2283
+Venezuela (Bolivarian Republic of),2017,2310
+Kenya,2017,25
+Tajikistan,2017,28
+Libya,2017,2815
+Cyprus,2017,3
+Argentina,2017,306
+Afghanistan,2017,32065
+France,2017,4
+Nepal,2017,4
+Sudan,2017,4107
+Nicaragua,2017,4343
+El Salvador,2017,44
+Yemen,2017,4525
+Tunisia,2017,4902
+Cameroon,2017,51
+Syrian Arab Republic,2017,53232
+Nigeria,2017,55
+Egypt,2017,566
+Niger,2017,600
+Peru,2017,6601
+Morocco,2017,6802
+Burkina Faso,2017,712
+Uzbekistan,2017,749
+Colombia,2017,7730
+Guatemala,2017,775
+Chad,2017,8
+Pakistan,2017,8024
+Mexico,2017,841
+Paraguay,2017,92
+Sri Lanka,2017,980
+Belize,2017,NA
+Bulgaria,2017,NA
+Central African Republic,2017,NA
+Croatia,2017,NA
+Democratic Republic of the Congo,2017,NA
+Dominican Republic,2017,NA
+Eritrea,2017,NA
+Gambia,2017,NA
+Ghana,2017,NA
+Guinea,2017,NA
+Guinea-Bissau,2017,NA
+India,2017,NA
+Kyrgyzstan,2017,NA
+Malawi,2017,NA
+Mali,2017,NA
+Mauritania,2017,NA
+Monaco,2017,NA
+Türkiye,2017,NA
+United States of America,2017,NA
+Armenia,2016,0
+Bosnia and Herzegovina,2016,0
+Bulgaria,2016,0
+China,2016,0
+Côte d’Ivoire,2016,0
+Cyprus,2016,0
+Djibouti,2016,0
+Georgia,2016,0
+Lebanon,2016,0
+Malta,2016,0
+Montenegro,2016,0
+Namibia,2016,0
+Portugal,2016,0
+The former Yugoslav Republic of Macedonia,2016,0
+Slovenia,2016,0
+Thailand,2016,0
+Ukraine,2016,0
+Nepal,2016,1
+Oman,2016,1
+Algeria,2016,10678
+Colombia,2016,10941
+Niger,2016,107
+Burkina Faso,2016,1075
+Costa Rica,2016,1148
+Ecuador,2016,1197
+Panama,2016,1198
+Brazil,2016,12468
+Jordan,2016,126
+El Salvador,2016,13
+Saudi Arabia,2016,1337
+Paraguay,2016,134
+Iran (Islamic Republic of),2016,14536
+Türkiye,2016,1474
+Spain,2016,167
+Iraq,2016,17566
+Kazakhstan,2016,185
+Croatia,2016,2
+Greece,2016,2
+Venezuela (Bolivarian Republic of),2016,2057
+Bolivia (Plurinational State of),2016,2222
+Argentina,2016,241
+Suriname,2016,241
+Israel,2016,242
+Libya,2016,2662
+Honduras,2016,2671
+Pakistan,2016,27151
+Kenya,2016,29
+France,2016,3
+Sudan,2016,3011
+Afghanistan,2016,34912
+Azerbaijan,2016,35
+Guyana,2016,396
+Ethiopia,2016,425
+Senegal,2016,44
+Mexico,2016,444
+Italy,2016,47
+Syrian Arab Republic,2016,47377
+Morocco,2016,4903
+Turkmenistan,2016,52
+Nicaragua,2016,5423
+Albania,2016,6
+Tajikistan,2016,60
+Tunisia,2016,6065
+Egypt,2016,643
+Kuwait,2016,7
+Peru,2016,7271
+Uzbekistan,2016,766
+Guatemala,2016,835
+Sri Lanka,2016,883
+Yemen,2016,9120
+Belize,2016,NA
+Bhutan,2016,NA
+Cameroon,2016,NA
+Central African Republic,2016,NA
+Chad,2016,NA
+Democratic Republic of the Congo,2016,NA
+Dominican Republic,2016,NA
+Eritrea,2016,NA
+Gambia,2016,NA
+Ghana,2016,NA
+Guinea,2016,NA
+Guinea-Bissau,2016,NA
+India,2016,NA
+Kyrgyzstan,2016,NA
+Malawi,2016,NA
+Mali,2016,NA
+Mauritania,2016,NA
+Monaco,2016,NA
+Nigeria,2016,NA
+United States of America,2016,NA
+Armenia,2015,0
+Bosnia and Herzegovina,2015,0
+Bulgaria,2015,0
+China,2015,0
+Djibouti,2015,0
+Kuwait,2015,0
+Montenegro,2015,0
+Namibia,2015,0
+Nepal,2015,0
+Nigeria,2015,0
+Oman,2015,0
+Portugal,2015,0
+Slovenia,2015,0
+Ukraine,2015,0
+Albania,2015,1
+Cyprus,2015,1
+Georgia,2015,1
+Thailand,2015,1
+Costa Rica,2015,1171
+Paraguay,2015,122
+Sri Lanka,2015,1283
+Guyana,2015,132
+Ecuador,2015,1479
+Saudi Arabia,2015,1490
+Pakistan,2015,16647
+Kenya,2015,160
+Libya,2015,1632
+Iraq,2015,17525
+Azerbaijan,2015,18
+Iran (Islamic Republic of),2015,18607
+Brazil,2015,19395
+Nicaragua,2015,1925
+Türkiye,2015,1986
+Greece,2015,2
+El Salvador,2015,20
+Venezuela (Bolivarian Republic of),2015,2013
+Honduras,2015,2040
+Bolivia (Plurinational State of),2015,2231
+Egypt,2015,2243
+Israel,2015,226
+Kazakhstan,2015,24
+Suriname,2015,241
+Morocco,2015,2809
+Afghanistan,2015,29392
+Lebanon,2015,3
+Senegal,2015,32
+Argentina,2015,334
+Sudan,2015,3503
+Croatia,2015,4
+Spain,2015,40
+Yemen,2015,4063
+Mexico,2015,479
+Turkmenistan,2015,49
+France,2015,5
+Syrian Arab Republic,2015,50972
+Uzbekistan,2015,508
+Ethiopia,2015,534
+Peru,2015,5459
+Guatemala,2015,562
+Tunisia,2015,6611
+Jordan,2015,70
+Burkina Faso,2015,729
+Algeria,2015,7523
+Colombia,2015,7541
+Italy,2015,76
+Tajikistan,2015,83
+Panama,2015,930
+Belize,2015,NA
+Bhutan,2015,NA
+Cameroon,2015,NA
+Central African Republic,2015,NA
+Chad,2015,NA
+Côte d’Ivoire,2015,NA
+Democratic Republic of the Congo,2015,NA
+Dominican Republic,2015,NA
+Eritrea,2015,NA
+Gambia,2015,NA
+Ghana,2015,NA
+Guinea,2015,NA
+Guinea-Bissau,2015,NA
+India,2015,NA
+Kyrgyzstan,2015,NA
+Malawi,2015,NA
+Mali,2015,NA
+Malta,2015,NA
+Mauritania,2015,NA
+Monaco,2015,NA
+Niger,2015,NA
+The former Yugoslav Republic of Macedonia,2015,NA
+United States of America,2015,NA
+Albania,2014,0
+Armenia,2014,0
+Bosnia and Herzegovina,2014,0
+Bulgaria,2014,0
+China,2014,0
+Georgia,2014,0
+Namibia,2014,0
+Nepal,2014,0
+Oman,2014,0
+Portugal,2014,0
+Ukraine,2014,0
+Greece,2014,1
+Thailand,2014,1
+Spain,2014,100
+Sudan,2014,1053
+Colombia,2014,11586
+Ecuador,2014,1175
+Paraguay,2014,124
+Tajikistan,2014,128
+Sri Lanka,2014,1367
+Argentina,2014,138
+Kazakhstan,2014,14
+Pakistan,2014,14634
+Egypt,2014,1444
+Azerbaijan,2014,15
+Panama,2014,1581
+Iran (Islamic Republic of),2014,16024
+Nicaragua,2014,1649
+Venezuela (Bolivarian Republic of),2014,1661
+Türkiye,2014,1678
+Bolivia (Plurinational State of),2014,1683
+Jordan,2014,182
+Afghanistan,2014,19065
+Honduras,2014,1936
+Kuwait,2014,2
+Lebanon,2014,2
+Brazil,2014,20418
+Costa Rica,2014,2150
+Saudi Arabia,2014,2190
+Morocco,2014,2555
+Guatemala,2014,258
+Iraq,2014,2691
+El Salvador,2014,29
+Uzbekistan,2014,311
+Tunisia,2014,3368
+Ethiopia,2014,342
+Israel,2014,342
+Senegal,2014,35
+Suriname,2014,390
+Mexico,2014,418
+Nigeria,2014,5
+Yemen,2014,5000
+Libya,2014,516
+Syrian Arab Republic,2014,53876
+Algeria,2014,5423
+Turkmenistan,2014,55
+Peru,2014,6231
+Guyana,2014,64
+India,2014,72
+Burkina Faso,2014,741
+France,2014,8
+Italy,2014,80
+Belize,2014,NA
+Bhutan,2014,NA
+Cameroon,2014,NA
+Central African Republic,2014,NA
+Chad,2014,NA
+Côte d’Ivoire,2014,NA
+Croatia,2014,NA
+Cyprus,2014,NA
+Democratic Republic of the Congo,2014,NA
+Djibouti,2014,NA
+Dominican Republic,2014,NA
+Eritrea,2014,NA
+Gambia,2014,NA
+Ghana,2014,NA
+Guinea,2014,NA
+Guinea-Bissau,2014,NA
+Kenya,2014,NA
+Kyrgyzstan,2014,NA
+Malawi,2014,NA
+Mali,2014,NA
+Malta,2014,NA
+Mauritania,2014,NA
+Monaco,2014,NA
+Montenegro,2014,NA
+Niger,2014,NA
+The former Yugoslav Republic of Macedonia,2014,NA
+Slovenia,2014,NA
+United States of America,2014,NA
+Armenia,2013,0
+Bosnia and Herzegovina,2013,0
+Bulgaria,2013,0
+Cyprus,2013,0
+Lebanon,2013,0
+Malta,2013,0
+Nepal,2013,0
+Nigeria,2013,0
+Ukraine,2013,0
+Albania,2013,1
+Greece,2013,1
+Portugal,2013,1
+Kazakhstan,2013,14
+Kuwait,2013,14
+Jordan,2013,146
+El Salvador,2013,16
+Iran (Islamic Republic of),2013,16054
+Paraguay,2013,162
+Venezuela (Bolivarian Republic of),2013,1638
+Iraq,2013,1648
+India,2013,172
+Panama,2013,1762
+Brazil,2013,18226
+Costa Rica,2013,1950
+Saudi Arabia,2013,1988
+Bolivia (Plurinational State of),2013,2016
+Honduras,2013,2074
+Türkiye,2013,2268
+Afghanistan,2013,23621
+Morocco,2013,2592
+Nicaragua,2013,3035
+Israel,2013,321
+Azerbaijan,2013,33
+Sudan,2013,336
+Pakistan,2013,3717
+Suriname,2013,382
+Yemen,2013,3823
+Guyana,2013,4
+Tunisia,2013,4113
+Egypt,2013,464
+China,2013,5
+Croatia,2013,5
+France,2013,5
+Georgia,2013,5
+Libya,2013,505
+Uzbekistan,2013,505
+Turkmenistan,2013,59
+Algeria,2013,6428
+Guatemala,2013,664
+Peru,2013,6948
+Syrian Arab Republic,2013,71996
+Ethiopia,2013,85
+Tajikistan,2013,86
+Ecuador,2013,873
+Argentina,2013,90
+Colombia,2013,9353
+Burkina Faso,2013,947
+Italy,2013,95
+Mexico,2013,970
+Belize,2013,NA
+Bhutan,2013,NA
+Cameroon,2013,NA
+Central African Republic,2013,NA
+Chad,2013,NA
+Côte d’Ivoire,2013,NA
+Democratic Republic of the Congo,2013,NA
+Djibouti,2013,NA
+Dominican Republic,2013,NA
+Eritrea,2013,NA
+Gambia,2013,NA
+Ghana,2013,NA
+Guinea,2013,NA
+Guinea-Bissau,2013,NA
+Kenya,2013,NA
+Kyrgyzstan,2013,NA
+Malawi,2013,NA
+Mali,2013,NA
+Mauritania,2013,NA
+Monaco,2013,NA
+Montenegro,2013,NA
+Namibia,2013,NA
+Niger,2013,NA
+Oman,2013,NA
+The former Yugoslav Republic of Macedonia,2013,NA
+Senegal,2013,NA
+Slovenia,2013,NA
+Spain,2013,NA
+Sri Lanka,2013,NA
+United States of America,2013,NA
+Albania,2012,0
+Armenia,2012,0
+Bosnia and Herzegovina,2012,0
+Côte d’Ivoire,2012,0
+Malta,2012,0
+Nepal,2012,0
+Nigeria,2012,0
+Portugal,2012,1
+Jordan,2012,103
+Burkina Faso,2012,1134
+Kazakhstan,2012,12
+Egypt,2012,1260
+Costa Rica,2012,1453
+India,2012,146
+Saudi Arabia,2012,1464
+Libya,2012,1500
+Ecuador,2012,1512
+Turkmenistan,2012,158
+Argentina,2012,173
+Bolivia (Plurinational State of),2012,1767
+Paraguay,2012,177
+Spain,2012,18
+Panama,2012,1811
+Nicaragua,2012,1884
+Türkiye,2012,1898
+Azerbaijan,2012,19
+Honduras,2012,1927
+Croatia,2012,2
+Lebanon,2012,2
+Oman,2012,2
+Ukraine,2012,2
+Iran (Islamic Republic of),2012,20947
+Uzbekistan,2012,204
+Sudan,2012,206
+El Salvador,2012,21
+Venezuela (Bolivarian Republic of),2012,2104
+Brazil,2012,23547
+Iraq,2012,2486
+Italy,2012,26
+Tajikistan,2012,26
+Morocco,2012,2877
+Greece,2012,3
+Afghanistan,2012,33894
+Israel,2012,353
+Yemen,2012,3629
+Kuwait,2012,4
+Cyprus,2012,5
+France,2012,5
+Tunisia,2012,5376
+Syrian Arab Republic,2012,55894
+Mexico,2012,567
+Guatemala,2012,572
+Suriname,2012,594
+China,2012,6
+Georgia,2012,6
+Pakistan,2012,6598
+Peru,2012,6969
+Guyana,2012,7
+Algeria,2012,7418
+Ethiopia,2012,95
+Colombia,2012,9757
+Belize,2012,NA
+Bhutan,2012,NA
+Bulgaria,2012,NA
+Cameroon,2012,NA
+Central African Republic,2012,NA
+Chad,2012,NA
+Democratic Republic of the Congo,2012,NA
+Djibouti,2012,NA
+Dominican Republic,2012,NA
+Eritrea,2012,NA
+Gambia,2012,NA
+Ghana,2012,NA
+Guinea,2012,NA
+Guinea-Bissau,2012,NA
+Kenya,2012,NA
+Kyrgyzstan,2012,NA
+Malawi,2012,NA
+Mali,2012,NA
+Mauritania,2012,NA
+Monaco,2012,NA
+Montenegro,2012,NA
+Namibia,2012,NA
+Niger,2012,NA
+The former Yugoslav Republic of Macedonia,2012,NA
+Senegal,2012,NA
+Slovenia,2012,NA
+Sri Lanka,2012,NA
+United States of America,2012,NA
+Armenia,2011,0
+Bosnia and Herzegovina,2011,0
+Côte d’Ivoire,2011,0
+Cyprus,2011,0
+Nepal,2011,0
+Oman,2011,0
+Albania,2011,1
+Croatia,2011,1
+Malta,2011,1
+Spain,2011,10
+Peru,2011,11204
+Algeria,2011,11742
+Sudan,2011,111
+Pakistan,2011,12938
+Ghana,2011,129
+Tajikistan,2011,13
+Libya,2011,1327
+Jordan,2011,136
+Costa Rica,2011,1376
+Ecuador,2011,1385
+Burkina Faso,2011,1389
+India,2011,139
+Argentina,2011,140
+Guyana,2011,15
+Venezuela (Bolivarian Republic of),2011,1551
+Bolivia (Plurinational State of),2011,1598
+El Salvador,2011,17
+Honduras,2011,1736
+Türkiye,2011,1803
+Paraguay,2011,184
+Iran (Islamic Republic of),2011,19426
+Saudi Arabia,2011,1951
+Greece,2011,2
+Portugal,2011,2
+Ukraine,2011,2
+Brazil,2011,21395
+Yemen,2011,2124
+Ethiopia,2011,225
+Italy,2011,24
+Kazakhstan,2011,24
+Uzbekistan,2011,253
+Iraq,2011,2978
+Azerbaijan,2011,31
+Afghanistan,2011,31293
+Israel,2011,310
+Nicaragua,2011,3146
+Panama,2011,3221
+Mexico,2011,342
+Morocco,2011,4319
+Lebanon,2011,5
+Tunisia,2011,5114
+Guatemala,2011,549
+Syrian Arab Republic,2011,58156
+China,2011,6
+France,2011,6
+Georgia,2011,6
+Kuwait,2011,7
+Turkmenistan,2011,81
+Egypt,2011,864
+Colombia,2011,9063
+Nigeria,2011,95
+Belize,2011,NA
+Bhutan,2011,NA
+Bulgaria,2011,NA
+Cameroon,2011,NA
+Central African Republic,2011,NA
+Chad,2011,NA
+Democratic Republic of the Congo,2011,NA
+Djibouti,2011,NA
+Dominican Republic,2011,NA
+Eritrea,2011,NA
+Gambia,2011,NA
+Guinea,2011,NA
+Guinea-Bissau,2011,NA
+Kenya,2011,NA
+Kyrgyzstan,2011,NA
+Malawi,2011,NA
+Mali,2011,NA
+Mauritania,2011,NA
+Monaco,2011,NA
+Montenegro,2011,NA
+Namibia,2011,NA
+Niger,2011,NA
+The former Yugoslav Republic of Macedonia,2011,NA
+Senegal,2011,NA
+Slovenia,2011,NA
+Sri Lanka,2011,NA
+Suriname,2011,NA
+United States of America,2011,NA
+Côte d’Ivoire,2010,0
+Nepal,2010,0
+Ukraine,2010,0
+United States of America,2010,0
+Albania,2010,1
+Spain,2010,10
+Algeria,2010,10173
+Malta,2010,11
+Costa Rica,2010,1143
+Kuwait,2010,12
+Honduras,2010,1362
+Pakistan,2010,1387
+Colombia,2010,14818
+Bolivia (Plurinational State of),2010,1440
+Sri Lanka,2010,148
+Guyana,2010,15
+Jordan,2010,155
+Ecuador,2010,1629
+Argentina,2010,166
+Venezuela (Bolivarian Republic of),2010,1952
+Greece,2010,2
+Italy,2010,22
+Brazil,2010,22397
+Iran (Islamic Republic of),2010,22921
+Türkiye,2010,2237
+Libya,2010,2273
+Israel,2010,230
+Paraguay,2010,262
+Suriname,2010,291
+Oman,2010,3
+Tajikistan,2010,3
+Iraq,2010,3113
+Egypt,2010,318
+Afghanistan,2010,32145
+Panama,2010,3221
+Yemen,2010,3234
+Nicaragua,2010,3497
+Tunisia,2010,3811
+El Salvador,2010,4
+Kazakhstan,2010,4
+Guatemala,2010,410
+Saudi Arabia,2010,4129
+Syrian Arab Republic,2010,42172
+Azerbaijan,2010,45
+Mexico,2010,456
+Georgia,2010,5
+Lebanon,2010,6
+Uzbekistan,2010,605
+Sudan,2010,752
+Peru,2010,7612
+France,2010,8
+Morocco,2010,8707
+Armenia,2010,NA
+Belize,2010,NA
+Bhutan,2010,NA
+Bosnia and Herzegovina,2010,NA
+Bulgaria,2010,NA
+Burkina Faso,2010,NA
+Cameroon,2010,NA
+Central African Republic,2010,NA
+Chad,2010,NA
+China,2010,NA
+Croatia,2010,NA
+Cyprus,2010,NA
+Democratic Republic of the Congo,2010,NA
+Djibouti,2010,NA
+Dominican Republic,2010,NA
+Eritrea,2010,NA
+Ethiopia,2010,NA
+Gambia,2010,NA
+Ghana,2010,NA
+Guinea,2010,NA
+Guinea-Bissau,2010,NA
+India,2010,NA
+Kenya,2010,NA
+Kyrgyzstan,2010,NA
+Malawi,2010,NA
+Mali,2010,NA
+Mauritania,2010,NA
+Monaco,2010,NA
+Montenegro,2010,NA
+Namibia,2010,NA
+Niger,2010,NA
+Nigeria,2010,NA
+Portugal,2010,NA
+The former Yugoslav Republic of Macedonia,2010,NA
+Senegal,2010,NA
+Slovenia,2010,NA
+Thailand,2010,NA
+Turkmenistan,2010,NA
+Côte d’Ivoire,2009,0
+El Salvador,2009,0
+Nepal,2009,0
+Albania,2009,1
+Lebanon,2009,1
+Spain,2009,10
+Algeria,2009,10666
+Israel,2009,133
+Suriname,2009,138
+Jordan,2009,148
+Bolivia (Plurinational State of),2009,1487
+Colombia,2009,15420
+Honduras,2009,1502
+Argentina,2009,163
+Libya,2009,1691
+Türkiye,2009,1696
+Ecuador,2009,1735
+Tunisia,2009,1737
+Egypt,2009,174
+Yemen,2009,1801
+Panama,2009,1866
+India,2009,187
+France,2009,2
+United States of America,2009,2
+Costa Rica,2009,2025
+Iraq,2009,2086
+Brazil,2009,21989
+Italy,2009,22
+Tajikistan,2009,22
+Venezuela (Bolivarian Republic of),2009,2248
+Iran (Islamic Republic of),2009,24586
+Paraguay,2009,251
+Saudi Arabia,2009,2549
+Georgia,2009,3
+Afghanistan,2009,32937
+Sri Lanka,2009,326
+Azerbaijan,2009,33
+Uzbekistan,2009,362
+Pakistan,2009,3731
+Mexico,2009,387
+Oman,2009,4
+Nicaragua,2009,4047
+Syrian Arab Republic,2009,46348
+Guatemala,2009,519
+Morocco,2009,6013
+Peru,2009,6513
+Greece,2009,7
+Kuwait,2009,8
+Guyana,2009,9
+Kazakhstan,2009,9
+Armenia,2009,NA
+Belize,2009,NA
+Bhutan,2009,NA
+Bosnia and Herzegovina,2009,NA
+Bulgaria,2009,NA
+Burkina Faso,2009,NA
+Cameroon,2009,NA
+Central African Republic,2009,NA
+Chad,2009,NA
+China,2009,NA
+Croatia,2009,NA
+Cyprus,2009,NA
+Democratic Republic of the Congo,2009,NA
+Djibouti,2009,NA
+Dominican Republic,2009,NA
+Eritrea,2009,NA
+Ethiopia,2009,NA
+Gambia,2009,NA
+Ghana,2009,NA
+Guinea,2009,NA
+Guinea-Bissau,2009,NA
+Kenya,2009,NA
+Kyrgyzstan,2009,NA
+Malawi,2009,NA
+Mali,2009,NA
+Malta,2009,NA
+Mauritania,2009,NA
+Monaco,2009,NA
+Montenegro,2009,NA
+Namibia,2009,NA
+Niger,2009,NA
+Nigeria,2009,NA
+Portugal,2009,NA
+The former Yugoslav Republic of Macedonia,2009,NA
+Senegal,2009,NA
+Slovenia,2009,NA
+Sudan,2009,NA
+Thailand,2009,NA
+Turkmenistan,2009,NA
+Ukraine,2009,NA
+Côte d’Ivoire,2008,0
+Cyprus,2008,0
+Ghana,2008,0
+Kazakhstan,2008,0
+Lebanon,2008,0
+United States of America,2008,0
+Nepal,2008,1
+Yemen,2008,1090
+Georgia,2008,11
+Türkiye,2008,1161
+Iraq,2008,1250
+Azerbaijan,2008,14
+Guyana,2008,14
+Ecuador,2008,1479
+Uzbekistan,2008,155
+Suriname,2008,159
+Malta,2008,16
+Spain,2008,16
+Bolivia (Plurinational State of),2008,1650
+India,2008,172
+Honduras,2008,1759
+Libya,2008,1800
+Albania,2008,2
+Brazil,2008,20123
+Argentina,2008,208
+Panama,2008,2109
+Italy,2008,23
+Saudi Arabia,2008,2321
+Venezuela (Bolivarian Republic of),2008,2392
+Afghanistan,2008,24585
+Jordan,2008,244
+Iran (Islamic Republic of),2008,26824
+Tunisia,2008,2750
+Mexico,2008,284
+Syrian Arab Republic,2008,29140
+Croatia,2008,3
+Ukraine,2008,3
+El Salvador,2008,31
+Pakistan,2008,3631
+Tajikistan,2008,38
+Sri Lanka,2008,399
+France,2008,4
+Greece,2008,4
+Egypt,2008,471
+Guatemala,2008,494
+Morocco,2008,5128
+Mali,2008,55
+Nicaragua,2008,5826
+Nigeria,2008,7
+Oman,2008,7
+Peru,2008,7650
+Costa Rica,2008,818
+Algeria,2008,8442
+Israel,2008,884
+Turkmenistan,2008,89
+Senegal,2008,9
+Paraguay,2008,92
+Colombia,2008,9595
+Armenia,2008,NA
+Belize,2008,NA
+Bhutan,2008,NA
+Bosnia and Herzegovina,2008,NA
+Bulgaria,2008,NA
+Burkina Faso,2008,NA
+Cameroon,2008,NA
+Central African Republic,2008,NA
+Chad,2008,NA
+China,2008,NA
+Democratic Republic of the Congo,2008,NA
+Djibouti,2008,NA
+Dominican Republic,2008,NA
+Eritrea,2008,NA
+Ethiopia,2008,NA
+Gambia,2008,NA
+Guinea,2008,NA
+Guinea-Bissau,2008,NA
+Kenya,2008,NA
+Kuwait,2008,NA
+Kyrgyzstan,2008,NA
+Malawi,2008,NA
+Mauritania,2008,NA
+Monaco,2008,NA
+Montenegro,2008,NA
+Namibia,2008,NA
+Niger,2008,NA
+Portugal,2008,NA
+The former Yugoslav Republic of Macedonia,2008,NA
+Slovenia,2008,NA
+Sudan,2008,NA
+Thailand,2008,NA
+Côte d’Ivoire,2007,0
+Cyprus,2007,0
+Kazakhstan,2007,0
+Lebanon,2007,0
+Nepal,2007,0
+Georgia,2007,1
+Ukraine,2007,1
+Senegal,2007,10
+Peru,2007,10183
+Turkmenistan,2007,101
+Yemen,2007,1116
+Ecuador,2007,1185
+Malta,2007,13
+Tajikistan,2007,13
+Colombia,2007,13331
+Türkiye,2007,1499
+India,2007,156
+Suriname,2007,161
+Ghana,2007,17
+Syrian Arab Republic,2007,17709
+Costa Rica,2007,1807
+Chad,2007,200
+Argentina,2007,201
+Brazil,2007,21530
+Panama,2007,2199
+Azerbaijan,2007,22
+Italy,2007,22
+Venezuela (Bolivarian Republic of),2007,2464
+Iran (Islamic Republic of),2007,26493
+Tunisia,2007,2742
+Guatemala,2007,287
+France,2007,3
+United States of America,2007,3
+Afghanistan,2007,30319
+Bolivia (Plurinational State of),2007,3153
+Saudi Arabia,2007,3286
+Morocco,2007,3290
+Jordan,2007,354
+El Salvador,2007,36
+Nicaragua,2007,3719
+Sri Lanka,2007,384
+Libya,2007,3884
+Pakistan,2007,4390
+Mexico,2007,443
+Croatia,2007,5
+Paraguay,2007,535
+Mali,2007,55
+Greece,2007,6
+Guyana,2007,6
+Nigeria,2007,6
+Oman,2007,6
+Spain,2007,6
+Uzbekistan,2007,61
+Iraq,2007,655
+Algeria,2007,6764
+Albania,2007,7
+Honduras,2007,855
+Israel,2007,904
+Armenia,2007,NA
+Belize,2007,NA
+Bhutan,2007,NA
+Bosnia and Herzegovina,2007,NA
+Bulgaria,2007,NA
+Burkina Faso,2007,NA
+Cameroon,2007,NA
+Central African Republic,2007,NA
+China,2007,NA
+Democratic Republic of the Congo,2007,NA
+Djibouti,2007,NA
+Dominican Republic,2007,NA
+Egypt,2007,NA
+Eritrea,2007,NA
+Ethiopia,2007,NA
+Gambia,2007,NA
+Guinea,2007,NA
+Guinea-Bissau,2007,NA
+Kenya,2007,NA
+Kuwait,2007,NA
+Kyrgyzstan,2007,NA
+Malawi,2007,NA
+Mauritania,2007,NA
+Monaco,2007,NA
+Montenegro,2007,NA
+Namibia,2007,NA
+Niger,2007,NA
+Portugal,2007,NA
+The former Yugoslav Republic of Macedonia,2007,NA
+Slovenia,2007,NA
+Sudan,2007,NA
+Thailand,2007,NA
+Côte d’Ivoire,2006,0
+Ghana,2006,0
+Greece,2006,0
+Lebanon,2006,0
+Nepal,2006,0
+Croatia,2006,1
+Kazakhstan,2006,1
+Uzbekistan,2006,110
+India,2006,114
+Suriname,2006,116
+Honduras,2006,1300
+Iraq,2006,1339
+Algeria,2006,14379
+Ecuador,2006,1536
+Colombia,2006,16241
+Azerbaijan,2006,17
+Syrian Arab Republic,2006,18732
+Jordan,2006,181
+Costa Rica,2006,1870
+Türkiye,2006,1892
+Afghanistan,2006,19689
+Yemen,2006,1975
+Georgia,2006,2
+Ukraine,2006,2
+Nicaragua,2006,2125
+Brazil,2006,22397
+Iran (Islamic Republic of),2006,24517
+Venezuela (Bolivarian Republic of),2006,2553
+Argentina,2006,257
+Sri Lanka,2006,291
+Albania,2006,3
+France,2006,3
+Malta,2006,3
+Bolivia (Plurinational State of),2006,3152
+Morocco,2006,3361
+Italy,2006,36
+Saudi Arabia,2006,3602
+Panama,2006,3774
+Cyprus,2006,4
+Nigeria,2006,4
+Oman,2006,4
+Pakistan,2006,4151
+Mexico,2006,431
+Paraguay,2006,457
+El Salvador,2006,46
+Israel,2006,575
+Guyana,2006,6
+Spain,2006,6
+United States of America,2006,6
+Guatemala,2006,602
+Turkmenistan,2006,69
+Libya,2006,7180
+Senegal,2006,8
+Peru,2006,8248
+Burkina Faso,2006,827
+Mali,2006,86
+Tunisia,2006,9030
+Armenia,2006,NA
+Belize,2006,NA
+Bhutan,2006,NA
+Bosnia and Herzegovina,2006,NA
+Bulgaria,2006,NA
+Cameroon,2006,NA
+Central African Republic,2006,NA
+Chad,2006,NA
+China,2006,NA
+Democratic Republic of the Congo,2006,NA
+Djibouti,2006,NA
+Dominican Republic,2006,NA
+Egypt,2006,NA
+Eritrea,2006,NA
+Ethiopia,2006,NA
+Gambia,2006,NA
+Guinea,2006,NA
+Guinea-Bissau,2006,NA
+Kenya,2006,NA
+Kuwait,2006,NA
+Kyrgyzstan,2006,NA
+Malawi,2006,NA
+Mauritania,2006,NA
+Monaco,2006,NA
+Montenegro,2006,NA
+Namibia,2006,NA
+Niger,2006,NA
+Portugal,2006,NA
+The former Yugoslav Republic of Macedonia,2006,NA
+Slovenia,2006,NA
+Sudan,2006,NA
+Tajikistan,2006,NA
+Thailand,2006,NA
+France,2005,0
+Nepal,2005,0
+Bosnia and Herzegovina,2005,1
+Côte d’Ivoire,2005,1
+Lebanon,2005,1
+Pakistan,2005,10441
+Afghanistan,2005,12752
+Guatemala,2005,1243
+Ghana,2005,14
+Azerbaijan,2005,15
+Tunisia,2005,15373
+Uzbekistan,2005,150
+India,2005,152
+Honduras,2005,1574
+Spain,2005,16
+Jordan,2005,162
+Panama,2005,1649
+Costa Rica,2005,1676
+Colombia,2005,18043
+Ecuador,2005,1925
+Türkiye,2005,1926
+Croatia,2005,2
+Greece,2005,2
+United States of America,2005,2
+Yemen,2005,2023
+Iran (Islamic Republic of),2005,21419
+Syrian Arab Republic,2005,21951
+Suriname,2005,231
+Sri Lanka,2005,234
+El Salvador,2005,24
+Iraq,2005,2435
+Venezuela (Bolivarian Republic of),2005,2550
+Brazil,2005,26685
+Bolivia (Plurinational State of),2005,2657
+Argentina,2005,282
+Albania,2005,3
+Algeria,2005,30227
+Morocco,2005,3039
+Nicaragua,2005,3521
+Libya,2005,3819
+Saudi Arabia,2005,3883
+Malta,2005,4
+Ukraine,2005,4
+Georgia,2005,5
+Senegal,2005,5
+Paraguay,2005,591
+Israel,2005,686
+Guyana,2005,7
+Kazakhstan,2005,7
+Italy,2005,73
+Turkmenistan,2005,73
+Mali,2005,77
+Nigeria,2005,8
+Oman,2005,8
+Peru,2005,8067
+Burkina Faso,2005,827
+Mexico,2005,861
+Armenia,2005,NA
+Belize,2005,NA
+Bhutan,2005,NA
+Bulgaria,2005,NA
+Cameroon,2005,NA
+Central African Republic,2005,NA
+Chad,2005,NA
+China,2005,NA
+Cyprus,2005,NA
+Democratic Republic of the Congo,2005,NA
+Djibouti,2005,NA
+Dominican Republic,2005,NA
+Egypt,2005,NA
+Eritrea,2005,NA
+Ethiopia,2005,NA
+Gambia,2005,NA
+Guinea,2005,NA
+Guinea-Bissau,2005,NA
+Kenya,2005,NA
+Kuwait,2005,NA
+Kyrgyzstan,2005,NA
+Malawi,2005,NA
+Mauritania,2005,NA
+Monaco,2005,NA
+Montenegro,2005,NA
+Namibia,2005,NA
+Niger,2005,NA
+Portugal,2005,NA
+The former Yugoslav Republic of Macedonia,2005,NA
+Slovenia,2005,NA
+Sudan,2005,NA
+Tajikistan,2005,NA
+Thailand,2005,NA

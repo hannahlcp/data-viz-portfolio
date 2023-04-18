@@ -1,0 +1,16 @@
+Recommended files:
+
+wmr_cases_by_assay_method.txt			Number of cases per country, by detection method (microscopy / rapid diagnostic test)
+wmr_cases_by_species.txt			Number of cases per country, by species (P falciparum / P.vivax)
+wmr_deaths.txt					Reported deaths per country per year
+wmr_cases_deaths_modelling.txt			Cases/deaths/population estimated by modelling (upper, mid, lower estimates)
+wmr_cases_deaths_modelling_summaries.txt	As above, summarised by continent
+wmr_DHS_survey.txt				Demographic and Health Surveys (DHS) and Malaria Indicator Surveys (MIS)
+
+The following are included, but may be challenging:
+
+wmr_funding.txt					reported levels of funding as reported by donor and recipient
+wmr_pop_sizes_cases.txt				population sizes and reported numbers of cases by reporting site
+wmr_control_policies.txt			policies adopted at the national level for insecticide use and interventions
+wmr_treatment_policies.txt			policies adopted at the national level for drug use
+wmr_commodity_distribution.txt			distribution of antimalarial drugs (ACT), Rapid Diagnistic tests (RDT) and insecticide treated nets (ITN) by country
