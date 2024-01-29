@@ -15,8 +15,7 @@ Directories include datasets, and the code files are extensively commented to gu
 
 **Week 10:**
 - Annotating Data Points - ggplot2::geom_text
-- Facets - ggplot2:: facet_wrap (takes a number of plots and 'wraps' them into a grid) and ggplot2::facet_grid (defined by row and column face
-ting variables)
+- Facets - ggplot2:: facet_wrap (takes a number of plots and 'wraps' them into a grid) and ggplot2::facet_grid (defined by row and column faceting variables)
 - Patchwork
 - Colours - covering discrete colour scales, continuous colour scales (including ggplot2 viridis scales) and NA values
 - Themes
